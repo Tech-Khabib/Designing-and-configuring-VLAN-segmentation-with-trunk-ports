@@ -165,6 +165,9 @@ write memory
     |      |--[Access Switch 2] (Engineering VLAN 40)
     |
     |--[Router] (For external connectivity)
+here is a pictural diagram of the network topology
+![network](https://github.com/user-attachments/assets/0e5e83ba-cb4f-4d7d-a9ce-20c3e1194d5f)
+
 ```
 
 ## Testing and Validation Results
